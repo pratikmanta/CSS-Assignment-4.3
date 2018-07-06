@@ -1,0 +1,16 @@
+/*added image properties*/
+img {
+    width: 50px;
+    height:50px;
+    border: 1px none;
+}
+
+/* added flexbox properties for image element  */
+article .box {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    height: 100px; 
+}
+
+
